@@ -1,4 +1,4 @@
-radio list reskin with clean ui and clean talking ui effect 
+fivem radiolist redesigned with clean ui and clean talking ui effect 
 
 preview : https://r2.fivemanage.com/V45yEeMAc4OMtms5av8mY/FiveMbyCfx.re-soonbuiltwithQBCoreFrameworkbyJericoFxKakarotHamy!2025-07-2419-54-56.mp4
 
